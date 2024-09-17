@@ -1,0 +1,7 @@
+if not then append 
+okay
+hello 
+kartik
+rupal
+not happy
+happy
